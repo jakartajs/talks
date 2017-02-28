@@ -6,7 +6,7 @@ We're trying something different and using GitHub Issues for talk submissions. T
 
 After each meetup, we (or the speaker) will update issues with slides, links, and other useful information.
 
-[**Submit your talk now**](https://github.com/jakartas/talks/issues/new)
+[**Submit your talk now**](https://github.com/jakartajs/talks/issues/new)
 
 ## Submit a proposal
 
