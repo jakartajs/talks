@@ -12,9 +12,10 @@ After each meetup, we (or the speaker) will update issues with slides, links, an
 
 Check out the talk dates below, the theme for that date, and the suggested topics.
 
-Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/reactsydney/talks/issues/new).
+Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/jakartajs/talks/issues/new).
 
-_Alternatively_, if you're uncomfortable posting your idea publicly, you can email us directly: hi+reactsydney at jes.st and jed at thinkmill.com.au.
+_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @hengkiardo @giosakti @agung @sofianhw on JakartaJS slack group
+[**https://jakartajs-join.herokuapp.com**](https://jakartajs-join.herokuapp.com)
 
 Make sure you fill out the following information:
 
@@ -25,11 +26,6 @@ Make sure you fill out the following information:
 * Detailed Overview
 
 [**Submit your talk now**](https://github.com/jakartajs/talks/issues/new)
-
-Remember to Join our Slack Group Chat: 
-
-[**https://jakartajs-join.herokuapp.com**](https://jakartajs-join.herokuapp.com)
-Let us know if you have been submit your proposal
 
 ## Things to think about
 
